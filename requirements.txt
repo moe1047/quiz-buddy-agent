@@ -1,0 +1,7 @@
+chainlit>=0.7.700
+langgraph>=0.0.15
+langchain>=0.0.350
+langchain-core>=0.1.15
+openai>=1.6.1
+pydantic>=2.5.2
+SQLAlchemy>=2.0.23
